@@ -14,6 +14,7 @@ This is an enhancement to [BryceCanyonCounty/bcc-scene](https://github.com/Bryce
 
 ## Requirements
 - [VORP Framework](https://github.com/vorpcore)
+- [Badger_Discord_API](https://github.com/JaredScar/Badger_Discord_API) (for Discord integration)
 
 ## License & Support
 This software was formerly proprietary to Rainbow Railroad Roleplay, but I am now releasing it free and open-source under GNU GPLv3. I cannot provide any support.
